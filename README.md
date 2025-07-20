@@ -37,10 +37,11 @@ Bu projede, veri görselleştirme aracı Power BI kullanılarak Nescafe markası
 ### Özet Sayfa
 - Kartlar:
   - Toplam Satış Adedi
-  - Toplam Ciro
-  - Toplam Sipariş
+  - Toplam Sipariş Sayısı
   - Toplam Müşteri
+  - Toplam Ciro
   - Müşteri Başına Ciro
+  - Müşteri Başına Adet
   - Ortalama Sipariş Tutarı
 - Grafikler:
   - **Hafta sonu / hafta içi satış dağılımı** 
@@ -57,7 +58,7 @@ Bu projede, veri görselleştirme aracı Power BI kullanılarak Nescafe markası
 - Grafikler:
   - İstanbul’daki en çok harcayan 10 müşteri
   - Bölgelere göre müşteri sayısı
-  - Yaş grubu bazında toplam satış 
+  - Yaş grubu bazında satış tutarı
 
 ---
 
